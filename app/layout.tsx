@@ -11,7 +11,7 @@ export const metadata: Metadata = {
   title: "Analytics Dashboard | Suraj Thoke",
   description:
     "Professional analytics dashboard showcasing sales metrics, revenue tracking, and team performance - Designed by Suraj Thoke",
-  generator: "v0.app",
+ 
   icons: {
     icon: [
       {
